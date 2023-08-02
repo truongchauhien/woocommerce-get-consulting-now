@@ -1,0 +1,11 @@
+.wgcn-get-consulting-now {
+    margin-right: 0.25em;
+    background-color: springgreen !important;
+    color: black !important;
+}
+
+.wgcn-get-consulting-now:hover {
+    margin-right: 0.25em;
+    background-color: mediumspringgreen !important;
+    color: black !important;
+}

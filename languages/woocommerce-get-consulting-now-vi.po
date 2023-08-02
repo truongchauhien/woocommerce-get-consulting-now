@@ -1,0 +1,46 @@
+# Copyright (C) 2023 
+# This file is distributed under the same license as the WooCommerce Get Consulting Now plugin.
+msgid ""
+msgstr ""
+"Project-Id-Version: WooCommerce Get Consulting Now\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/woocommerce-get-"
+"consulting-now\n"
+"POT-Creation-Date: 2023-08-02T23:34:07+00:00\n"
+"PO-Revision-Date: 2023-08-03 06:36+0700\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: vi_VN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.3.2\n"
+"X-Domain: woocommerce-get-consulting-now\n"
+
+#. Plugin Name of the plugin
+msgid "WooCommerce Get Consulting Now"
+msgstr "Link tư vấn cho sản phẩm WooCommerce"
+
+#. Plugin URI of the plugin
+msgid "https://github.com/truongchauhien/woocommerce-get-consulting-now"
+msgstr ""
+
+#: woocommerce-get-consulting-now.php:45
+msgid "Get consulting now"
+msgstr "Yêu cầu tư vấn"
+
+#: woocommerce-get-consulting-now.php:57
+msgid "Consulting links"
+msgstr "Link tư vấn"
+
+#: woocommerce-get-consulting-now.php:71
+msgid "Consulting link"
+msgstr "Link"
+
+#: woocommerce-get-consulting-now.php:104
+msgid "Specifying a consulting link for a product category."
+msgstr "Chỉ định link tư vấn cho một danh mục sản phẩm."
+
+#: woocommerce-get-consulting-now.php:115
+#: woocommerce-get-consulting-now.php:116
+msgid "Get consulting"
+msgstr "Tư vấn"
