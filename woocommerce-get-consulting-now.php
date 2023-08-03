@@ -27,7 +27,7 @@ function wgcn_add_get_consulting_now_button() {
     global $product;
     $terms = get_the_terms($product->get_id(), 'product_cat');
 
-    $links = get_option('wgcn_links');
+    $links = get_option('wgcn_links', []);
     $link = NULL;
 
     foreach ($terms as $product_category) {
@@ -61,7 +61,7 @@ function wgcn_settings_init() {
         'wgcn_settings'
     );
 
-    $links = get_option('wgcn_links');
+    $links = get_option('wgcn_links', []);
 
     if (!count($links) || array_key_last($links) !== '') {
         $links[''] = '';
